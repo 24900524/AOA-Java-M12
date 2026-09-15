@@ -1,6 +1,6 @@
 # EX 2A Assign Cookies using Greedy Algorithm.
 
-## DATE: 15-09-2026
+## DATE: 03-08-2026
 
 ### Developed By: DHARSHINI S N
 
